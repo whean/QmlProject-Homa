@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Pages/Clock.qml</file>
+        <file>Pages/Home.qml</file>
+        <file>Pages/MusicPlayer.qml</file>
+        <file>Components/AppBtn.qml</file>
+        <file>Pages/MusicSelect.qml</file>
+        <file>Components/Homa.qml</file>
+        <file>PageLoader.qml</file>
+        <file>Components/CustomSolider.qml</file>
+        <file>Pages/Setting.qml</file>
+        <file>PopupLoader.qml</file>
+        <file>Popups/VolumePopup.qml</file>
+        <file>Components/CustomButton.qml</file>
+        <file>Popups/MusicPopup.qml</file>
+        <file>Pages/MonaChatLogin.qml</file>
+        <file>Pages/MonaChatList.qml</file>
+        <file>Pages/MonaChatMessage.qml</file>
+        <file>Popups/LoadingPopup.qml</file>
+        <file>Pages/Calculator.qml</file>
+        <file>Components/ScrollTextEdit.qml</file>
+        <file>Components/LPMouseArea.qml</file>
+    </qresource>
+</RCC>

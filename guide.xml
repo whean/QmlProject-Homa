@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MusicList Modified_Time="2024.06.12 20:28:06">
+    <Music>
+        <Name src="E:/Qt Programs/SmartWatch/musicSource/Musics/平松建治 - Chain Attack.mp3">平松建治 - Chain Attack</Name>
+        <Cover src="no_cover"/>
+    </Music>
+    <Music>
+        <Name src="E:/Qt Programs/SmartWatch/musicSource/Musics/夜吟月寒丶,迷人の陌陌 - 丁家坡.mp3">夜吟月寒丶,迷人の陌陌 - 丁家坡</Name>
+        <Cover src="E:/Qt Programs/SmartWatch/musicSource/Covers/夜吟月寒丶,迷人の陌陌 - 丁家坡.jpg"/>
+    </Music>
+    <Music>
+        <Name src="E:/Qt Programs/SmartWatch/musicSource/Musics/目黒将司 - specialist.mp3">目黒将司 - specialist</Name>
+        <Cover src="no_cover"/>
+    </Music>
+    <Music>
+        <Name src="E:/Qt Programs/SmartWatch/musicSource/Musics/Reach Out To The Truth.mp3">Reach Out To The Truth</Name>
+        <Cover src="E:/Qt Programs/SmartWatch/musicSource/Covers/Reach Out To The Truth.jpg"/>
+    </Music>
+</MusicList>

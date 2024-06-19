@@ -1,0 +1,49 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resourse/Image/buttons/calculatorBtn.png</file>
+        <file>Resourse/Image/buttons/calculatorBtn_clicked.png</file>
+        <file>Resourse/Image/buttons/clockBtn.png</file>
+        <file>Resourse/Image/buttons/clockBtn_clicked.png</file>
+        <file>Resourse/Image/buttons/monachatBtn.png</file>
+        <file>Resourse/Image/buttons/monachatBtn_clicked.png</file>
+        <file>Resourse/Image/buttons/musicBtn.png</file>
+        <file>Resourse/Image/buttons/musicBtn_clicked.png</file>
+        <file>Resourse/Image/buttons/settingBtn.png</file>
+        <file>Resourse/Image/buttons/settingBtn_clicked.png</file>
+        <file>Resourse/Image/Calculator/caculator_bt1.png</file>
+        <file>Resourse/Image/Calculator/caculator_bt1_p.png</file>
+        <file>Resourse/Image/Calculator/caculator_bt3.png</file>
+        <file>Resourse/Image/Calculator/caculator_bt3_p.png</file>
+        <file>Resourse/Image/Calculator/calculator_bk.png</file>
+        <file>Resourse/Image/Calculator/calculator_bt2.png</file>
+        <file>Resourse/Image/Calculator/calculator_bt2_p.png</file>
+        <file>Resourse/Image/Calculator/calculator_design.png</file>
+        <file>Resourse/Image/clock/clock_cover.png</file>
+        <file>Resourse/Image/clock/hand_hour.png</file>
+        <file>Resourse/Image/clock/hand_minute.png</file>
+        <file>Resourse/Image/clock/hand_second.png</file>
+        <file>Resourse/Image/HomaMonster/CoolHoma_clicked.png</file>
+        <file>Resourse/Image/HomaMonster/CoolHoma_normal.png</file>
+        <file>Resourse/Image/HomaMonster/NerdHoma_clicked.png</file>
+        <file>Resourse/Image/HomaMonster/NerdHoma_normal.png</file>
+        <file>Resourse/Image/HomaMonster/WildHoma_clicked.png</file>
+        <file>Resourse/Image/HomaMonster/WildHoma_normal.png</file>
+        <file>Resourse/Image/HomaMonster/WildHoma_vink.gif</file>
+        <file>Resourse/Image/musicPlayer/music-next-p.png</file>
+        <file>Resourse/Image/musicPlayer/music-next.png</file>
+        <file>Resourse/Image/musicPlayer/music-pause-p.png</file>
+        <file>Resourse/Image/musicPlayer/music-pause.png</file>
+        <file>Resourse/Image/musicPlayer/music-play-p.png</file>
+        <file>Resourse/Image/musicPlayer/music-play.png</file>
+        <file>Resourse/Image/musicPlayer/music-previous-p.png</file>
+        <file>Resourse/Image/musicPlayer/music-previous.png</file>
+        <file>Resourse/Image/musicPlayer/no_cover.jpg</file>
+        <file>Resourse/Image/musicPlayer/no_cover.png</file>
+        <file>Resourse/Image/musicPlayer/Reach Out To The Truth.mp3</file>
+        <file>Resourse/Image/musicPlayer/test-cover.png</file>
+        <file>Resourse/Image/Popups/loading.gif</file>
+        <file>Resourse/Image/Setting/folder.png</file>
+        <file>main.cpp</file>
+        <file>Resourse/Font/ScreenMatrix-1.ttf</file>
+    </qresource>
+</RCC>
